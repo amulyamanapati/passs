@@ -21,11 +21,3 @@ It’s a beginner-friendly cybersecurity project that also demonstrates how to b
 - **Hashlib** (optional for extra security)
 
 ---
-
-## 🔗 Follow Me
-Stay connected and follow for more projects & tutorials 🚀  
-
-- 📸 [Instagram](https://www.instagram.com/esraa_codes)  
-- 🎵 [TikTok](https://www.tiktok.com/@esraa.codes)  
-- ▶️ [YouTube](https://www.youtube.com/@EsraaCodes)  
-- 🌐 [GitHub](https://github.com/esraamahmoudhamza)
